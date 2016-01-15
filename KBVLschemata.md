@@ -18,7 +18,7 @@ Using this voice exchange pattern will ensure smooth voice-leading throughout th
 
 Note that the *fa* in the **D2** passing chord (a functional dissonance) of the second example does *not* resolve down to *mi*. This is permissible because *mi* is required of the bass line but cannot be doubled, and because the smooth outer-voice counterpoint and stepwise inner-voice motion counteract any harshness perceived by the unresolved dissonance.
 
-The voice exchange can also be used with a **D4** substitution chord. Note that the upper voices will be exactly the same as using a **V<sup>6/4<sup>** for **D2**.
+The voice exchange can also be used with a **D4** substitution chord. Note that the upper voices will be exactly the same as using a **V<sup>6/4</sup>** for **D2**.
 
 ![][D4i] 
 
