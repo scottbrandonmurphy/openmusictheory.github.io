@@ -21,17 +21,17 @@ Our initial exploration of harmonic functions will engage the general "common pr
 
 ## The three common-practice harmonic functions
 
-In common-practice music, harmonies tend to cluster around three high-level categories of harmonic function. These categories are traditionally called *tonic* (**T**), *subdominant* (**S**—also *predominant*, **P** or **PD**), and *dominant* (**D**). Each of these functions has their own characteristic scale degrees, with their own characteristic tendencies. And each of these functions tend to participate in certain kinds of chord progressions more than others.
+In common-practice music, harmonies tend to cluster around three high-level categories of harmonic function. These categories are traditionally called *tonic* (**T**), *subdominant* (**S** — also called *predominant*, **P** or **PD**), and *dominant* (**D**). Each of these functions has their own characteristic scale degrees, with their own characteristic tendencies. And each of these functions tend to participate in certain kinds of chord progressions more than others.
 
 If you are already comfortable with Roman numerals, you can generally think of **I**, **III**, and **VI** as *tonic*, **II** and **IV** as *subdominant*, and **V** and **VII** as *dominant*. (Though, as you will see below, there is more to it than that.) 
 
-To visualize these functional categories, think of the usual triads in C major arranged on a circle of thirds. Note that each chord sits between the two triads that share the most tones in common—C major (C, E, G) sits between E minor (E, G, B) and A minor (A, C, E), both of which share two tones in common with C.
+To visualize these functional categories, think of the usual triads in C major arranged on a circle of thirds. Note that each chord sits between the two triads that share the most tones in common — C major (C, E, G) sits between E minor (E, G, B) and A minor (A, C, E), both of which share two tones in common with C.
 
-<a href="Graphics/harmony/circleOfThirds-leadSheet.png"><img src="Graphics/harmony/circleOfThirds-leadSheet.png" width="400px"></a>
+<a href="Graphics/harmony/circleOfThirds-leadSheet.png"><img src="Graphics/harmony/circleOfThirds-leadSheet.png" style="max-width: 400px; border: 1px;" alt="Diatonic chords of C major positioned on the circle of thirds."></a>
 
-Convert these chords to Roman numerals (in C major), and we can see the functions. Since chords are grouped together by notes they have in common, they are also grouped together by function—since the function is determined by the tendencies of the tones that they share.
+Convert these chords to Roman numerals (in C major), and we can see the functions. Since the function is determined by the tendencies of the tones that they share, and since on this graph chords are grouped together by notes they have in common, they are also grouped together by function.
 
-[![](Graphics/harmony/circleOfThirds-functions.png)](Graphics/harmony/circleOfThirds-functions.png)
+<a href="Graphics/harmony/circleOfThirds-functions.png"><img src="Graphics/harmony/circleOfThirds-functions.png" style="max-width: 400px; border: 1px;" alt="Diatonic chords of any major key represented by Roman numerals positioned on the circle of thirds with harmonic functions labeled."></a>
 
 *Triads arranged on the circle of thirds, labeled by harmonic functions.*
 
@@ -41,7 +41,7 @@ The syntactic properties of these functions will be covered elsewhere. What foll
 
 ## Finding the function of a chord ##
 
-Each of the three harmonic functions—*tonic* (T), *subdominant* (S), and *dominant* (D)—have characteristic scale degrees. Tonic's characteristic scale degrees are 1, 3, 5, 6, and 7. Subdominant's characteristic scale degrees are 1, 2, 3, 4, and 6. Dominant's characteristic scale degrees are 2, 4, 5, 6, and 7.
+Each of the three harmonic functions — *tonic* (T), *subdominant* (S), and *dominant* (D) — have characteristic scale degrees. Tonic's characteristic scale degrees are 1, 3, 5, 6, and 7. Subdominant's characteristic scale degrees are 1, 2, 3, 4, and 6. Dominant's characteristic scale degrees are 2, 4, 5, 6, and 7.
 
 Ian Quinn (music theorist at Yale University) further distinguishes these scale degrees, using the categories of functional *triggers*, functional *associates*, and functional *dissonances*. These categories differentiate between scale degrees that are more or less characteristic of a function, and they help us understand the functional properties of chords whose scale degrees belong to more than one function, as well as how certain notes behave within a chord.
 
@@ -81,7 +81,7 @@ The second way to label a harmonic progression is what Quinn calls *functional b
 
 [![](Graphics/harmony/FunctionalBassFunctions.png)](Graphics/harmony/FunctionalBassFunctions.png)
 
-Quinn also advocates using what I call *interpreted functional bass*. This nomenclature uses the same symbols, but uses parentheses to denote [*contrapuntal prolongation*](http://openmusictheory.com/harmonicSyntax2.html) and lower-case postscripts to explain the contrapuntal role of the embellishing chord (p for passing, n for neighbor, i for incomplete neighbor, d for divider, e for embellishing—all of these refer to the voice-leading pattern in the bass voice). Following is an example of interpreted functional bass.
+Quinn also advocates using what I call *interpreted functional bass*. This nomenclature uses the same symbols, but uses parentheses to denote [*contrapuntal prolongation*](http://openmusictheory.com/harmonicSyntax2.html) and lower-case postscripts to explain the contrapuntal role of the embellishing chord (p for passing, n for neighbor, i for incomplete neighbor, d for divider, e for embellishing — all of these refer to the voice-leading pattern in the bass voice). Following is an example of interpreted functional bass.
 
 [![](Graphics/harmony/InterpretedFunctionalBass.png)](Graphics/harmony/InterpretedFunctionalBass.png)
 
