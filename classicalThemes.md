@@ -36,7 +36,7 @@ For further details, click [here](hybridThemes.html).
 Compound themes
 ---------------
 
-For further details, click [here](compoundThemes.html).
+For further details, see [Compound periods](compoundPeriod) and [Compound sentences](compoundSentence).
 
 <img src="Graphics/ClassicalThemes/16period-sent.svg" onerror="this.src='Graphics/ClassicalThemes/16period-sent.png'">
 <img src="Graphics/ClassicalThemes/16period-hybrid1.svg" onerror="this.src='Graphics/ClassicalThemes/16period-hybrid1.png'">
