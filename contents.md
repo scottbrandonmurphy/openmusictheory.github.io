@@ -73,7 +73,8 @@ title: Table of Contents
 
 ### Thematic Structure in the Classical Style
 
-####Classical theme types.   
+#### Classical theme types.   
+
 [The sentence.](sentence.html)   
 [The period.](period.html)   
 [Hybrid themes.](hybridThemes.html)   
@@ -85,7 +86,8 @@ title: Table of Contents
 [Theme type reference.](classicalThemes.html)  
 [Thematic function reference.](themeFunctions.html)
 
-####Techniques of Phrase Rhythm  
+#### Techniques of Phrase Rhythm  
+
 [External Expansions.](externalExpansions.html)   
 [Internal Expansions.](internalExpansions.html)
 
