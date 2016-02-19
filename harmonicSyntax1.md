@@ -11,9 +11,9 @@ On a local level (chord-to-chord progressions), we can summarize the tendencies 
 
 > **T → S → D → T →** and so on . . .
 
-That does not rule out T progressing to D, D progressing to S, etc. But it does mean that those progressions are less common.
+That does not rule out T progressing to D, D progressing to S, etc. But it does mean that those progressions tend to be less common, at least in classical music.
 
-Higher-level musical structures also impact the norms according to which these harmonic functions progress. For now, we will consider one higher-level structure that influences chord-progression tendencies: the phrase. For now, we will limit our study to isolated, complete, self-sufficient phrases. This is an idealized, oversimplified setting — like strict voice-leading — that is useful for learning the basics. Some such phrases even exist in real music! But most of the time there are a number of competing factors that influence the chord-progression strategies employed by a composer at any given moment. However, the idealized phrase is a helpful starting point. Future study will explore how classical composers employ harmonic progressions in larger musical works that combine multiple phrases (which are not self-sufficient) into larger themes and movements.
+Higher-level musical structures also impact the norms according to which these harmonic functions progress. For now, we will consider one higher-level structure that influences chord-progression tendencies — the phrase — and we will limit our study to isolated, complete, self-sufficient phrases. This is an idealized, oversimplified setting — like strict voice-leading — that is useful for learning the basics. Some such phrases even exist in real music! But most of the time there are a number of competing factors that influence the chord-progression strategies employed by a composer at any given moment. However, the idealized phrase is a helpful starting point. Future study will explore how classical composers employ harmonic progressions in larger musical works that combine multiple phrases (which are not self-sufficient) into larger themes and movements.
 
 
 ## The idealized phrase
@@ -31,11 +31,11 @@ This harmonic cycle can be expanded by inserting a subdominant chord, a destabil
 
 In *functional bass* terms, any harmonic progression that follows the pattern
 
-> **T1 → (Tx_) → (S_) → D5 → T1**
+> **T1 → (S_) → D5 → T1**
 
 can serve as the basis for a complete idealized phrase. (Harmonies in parentheses are optional.)
 
-Phrases are seldom 3–5 chords long, however, and a harmonic function can be expressed by more than a single chord. Thus we can understand the harmonic functions not simply as chords, but as *zones* of varying length in a phrase, which can be created by a number of chords or short chord progressions. More generally, then, our idealized musical phrase contains a single progression of functional zones **T → (Tx) → (S) → D → T**, begins with **T1**, and ends with an authentic cadence (**D5–T1**), as seen in the example below.
+Phrases are seldom 3–5 chords long, however, and a harmonic function can be expressed by more than a single chord. Thus we can understand the harmonic functions not simply as chords, but as *zones* of varying length in a phrase, which can be created by a number of chords or short chord progressions. More generally, then, our idealized musical phrase contains a single progression of functional zones **T → (S) → D → T**, begins with **T1**, and ends with an authentic cadence (**D5–T1**), as seen in the example below.
 
 
 ## Triggering and prolonging harmonic functions in an idealized phrase
@@ -48,11 +48,11 @@ Functional prolongations are shown in a harmonic analysis by writing/typing T, S
 
 The following excerpt is from Mozart's Piano Sonata in A Major, K. 331, I., mm. 1–4, with a harmonic reduction and analysis provided below the original score. Such an analysis is called an *interpreted* harmonic analysis, because the harmonies are interpreted according to the way they behave in the phrase, rather than merely labeled. In this phrase, note the following:
 
-- The tonic zone is triggered by a root-position tonic triad (**T1**).  
-- Contrapuntal dominant chords (**D7** — first-inversion dominant chords) create a passing bass motion between the opening **I** chord, the **vi** (**T6**) in m. 3, and the return of **I** in m. 4.  
-- The [cadential progression](harmonicAnalysis) begins in m. 4 with the move from I to <b>ii<sup>6</sup></b> (**S4**) and then to the cadential six-four and dominant triad (**D5**). Note that the entirety of the cadential progression in m. 4 is made up of *cadential chords* – chords with fixed scale degrees in the bass.  
+- The tonic zone is triggered by a root-position tonic triad (**I** or **T1**).  
+- Contrapuntal dominant chords (**D7** — first-inversion dominant chords) create a passing bass motion between the opening **I** chord, the **vi** in m. 3, and the return of **I** in m. 4.  
+- The [cadential progression](harmonicAnalysis) begins in m. 4 with the move from **I** to <strong>ii<sup>6</sup></strong> (**S4**) and then to the cadential six-four and dominant triad (**D5**). Note that the entirety of the cadential progression in m. 4 is made up of *cadential chords* – chords with fixed scale degrees in the bass.  
 - In contrast, the entire tonic-prolongation zone is made up of *contrapuntal chords* – variable scale degrees in the bass — with the exception of the **I** chord that triggered the tonic function.  
-- The **vi** chord is a root-position chord, but still an embellishing chord, while the <b>ii<sup>6</sup></b> is an inverted chord, but still a functional/cadential chord. The difference is not the inversion, but the scale degree of the bass.
+- The **vi** chord is a root-position chord, but still an embellishing chord, while the <strong>ii<sup>6</sup></strong> is an inverted chord, but still a functional/cadential chord. The difference is not the inversion, but the scale degree of the bass.
 
 [![](Graphics/harmony/k331-reduction.png)](Graphics/harmony/k331-reduction.png)
 
