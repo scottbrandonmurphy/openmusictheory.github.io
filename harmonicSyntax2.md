@@ -3,16 +3,6 @@ layout: post
 title: Harmonic syntax - prolongation
 ---
 
-## Triggering and prolonging harmonic functions in an idealized phrase
-
-To establish, or trigger, a harmonic functional zone, *a fixed scale degree must appear in the bass*. In other words, tonic can be triggered by **T1** (always **I**), subdominant by **S2** or **S4** (including a variety of **II** and **IV** chords, in inversions, with and without sevenths), and dominant by **D5** (**V**, with or without a seventh, or any initial chord of a *compound cadence*). These are called *functional chords* (because they trigger the function) or *cadential chords* (because they can participate in a cadence). Other chords are called *contrapuntal chords*, and are used to *prolong* a function throughout the zone.
-
-Functional prolongations are shown in a harmonic analysis by writing/typing T, S, or D underneath the individual chord labels (Roman numerals or functional bass) and extending a line from the beginning of the functional zone to the end.
-
-[![](Graphics/harmony/RNsFunctionalProlongation.png)](Graphics/harmony/RNsFunctionalProlongation.png)
-
-Such an analysis is called an *interpreted* harmonic analysis, because the harmonies are interpreted according to the way they behave in the phrase, rather than merely labeled. 
-
 Following are the primary techniques used to prolong functional zones in an idealized classical phrase. Examples of specific progressions and notational conventions are provided.
 
 ## Change-of-figure prolongation ##
