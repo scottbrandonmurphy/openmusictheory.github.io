@@ -41,15 +41,23 @@ Underneath the slash notation, we label its harmonic function (**T**, **S**, or 
 
 This distinction is important. Applied chords are employed within the context of a tonal phrase, and without a cadence in a new key (a modulation), these borrowed chords still play a role within the original key. So while we reflect their borrowedness via slash notation in the Roman numerals, it is also important to reflect their role in the broader harmonic context of the phrase by means of *non*-modulating functional labels.
 
+Following is a short keyboard-style passage that includes several applied chords, notated with Roman numerals. 
+
+<iframe src="https://trinket.io/embed/music/45c20d9624" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+
+
 ### Notes on functional-bass notation
 
 Like [chromatically altered subdominant chords][alteredSubdominants], every applied chord will have two elements to its functional bass symbol. First, on the normal line of functional bass analysis will be a symbol showing its function in the current key and the scale degree of the bass note (with "+" or "–" for altered bass pitches), surrounded by square brackets to signify that the chord is chromatically altered. (The square brackets are necessary no matter in which voice the chromatic alteration occurs.) Second, below the normal line of functional bass analysis will be a symbol denoting the key from which it is borrowed and the functional bass symbol the chord would have in that key. 
 
 In our above example of **F\#dim–G–C** in the key of C, the regular functional bass line would read **[S+4] D5 T1**, and below the **[S+4]** would be the symbol **D7/V**. The latter symbol uses a slash to denote "in the key of" and a Roman numeral to denote the tonic of that key *relative to the current key*. We will use Roman numerals similarly when studying modulation to denote tonics of key areas to which the music modulates. Roman numerals, however, are *never* used to denote chordal roots in the context of a functional bass analysis. 
 
-Following is a short keyboard-style passage that includes several applied chords, notated with Roman numerals.
+Here is the same example above, but with the top layer of functional bass analysis replacing the Roman numerals. (Trinket only supports one layer of lyrics/harmonic analysis.) What chords would require a second layer of functional bass analysis? What would those symbols be?
 
-<iframe src="https://trinket.io/embed/music/45c20d9624" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<iframe src="https://trinket.io/embed/music/9a8ff25f3c" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+
+(You can find the interpreted functional bass version [here](https://trinket.io/music/406c96fec0).)
+
 
 ## Scale degrees in applied chords
 
@@ -73,7 +81,9 @@ As a shortcut, that usually means the seventh of a seventh chord or the fifth of
 
 In functional bass, use the functional label before the slash and the Roman numeral after the slash to determine functional dissonances more reliably. Consider a **D5/V** (altered **S2**) chord in G major. In the home key, the chord contains *re* (A), *fi* (C-sharp), *la* (E), and *do* (G). But those pitches are *sol*, *ti*, *re*, and *fa* in the key of V (D major). Thus, the C-sharp should be treated like a leading-tone, and the G (*fa* in D) like a functional dissonance of dominant function.
 
-***trinket example, resolving functional dissonances in applied chords***
+*Exercise: In the examples above, find the functional dissonance in each applied chord. What pitch is it? How does it progress into the next chord?*
+
+*Exercise: on the bullet list above, determine which solfège syllable(s) are the functional dissonance for each applied chord.*
 
 
 [D7ofV]: Graphics/D7ofV.png
