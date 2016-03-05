@@ -13,7 +13,9 @@ For example, take the chord progression **F–G–C** in C major. We would label
 
 Note, however, that though we "borrowed" or "applied" a dominant chord from G major, that chord is acting in the context of C major. Its scale degrees are *fi*, *la*, and *do*: an alteration of scale degrees that clearly express subdominant function. Thus, in C major, the progression **F\#dim–G–C** still expresses the functional progression **S–D–T**. (In functional bass—see below—this progression would be analyzed as **[S+4] D5 T1**.)
 
-***insert Trinket where students chromatically alter an S D T progression and label the chords accordingly***
+*Exercise: change one note in the following excerpt to turn the subdominant chord into an applied chord. What Roman numeral and functional bass would you give that chord?*
+
+<iframe src="https://trinket.io/embed/music/c6b5004279" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 Such borrowing of chords can happen for *any major or minor triad in the home key*. Any diatonic triad can take an applied chord—a chromatically altered chord that also functions as a dominant chord in which the following chord is tonic. Thus, the example progression of **F\#dim–G** can occur in any key to which the G-major triad belongs: G major, C major, D major, B minor, A minor, or E minor. 
 
