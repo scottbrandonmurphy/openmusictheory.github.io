@@ -15,7 +15,7 @@ Note, however, that though we "borrowed" or "applied" a dominant chord from G ma
 
 *Exercise: change one note in the following excerpt to turn the subdominant chord into an applied chord. What Roman numeral and functional bass would you give that chord?*
 
-<iframe src="https://trinket.io/embed/music/c6b5004279" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/music/c6b5004279" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
 
 Such borrowing of chords can happen for *any major or minor triad in the home key*. Any diatonic triad can take an applied chord—a chromatically altered chord that also functions as a dominant chord in which the following chord is tonic. Thus, the example progression of **F\#dim–G** can occur in any key to which the G-major triad belongs: G major, C major, D major, B minor, A minor, or E minor. 
 
@@ -47,7 +47,9 @@ Like [chromatically altered subdominant chords][alteredSubdominants], every appl
 
 In our above example of **F\#dim–G–C** in the key of C, the regular functional bass line would read **[S+4] D5 T1**, and below the **[S+4]** would be the symbol **D7/V**. The latter symbol uses a slash to denote "in the key of" and a Roman numeral to denote the tonic of that key *relative to the current key*. We will use Roman numerals similarly when studying modulation to denote tonics of key areas to which the music modulates. Roman numerals, however, are *never* used to denote chordal roots in the context of a functional bass analysis. 
 
-***trinket exercise labeling applied chords***
+Following is a short keyboard-style passage that includes several applied chords, notated with Roman numerals.
+
+<iframe src="https://trinket.io/embed/music/45c20d9624" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
 
 ## Scale degrees in applied chords
 
