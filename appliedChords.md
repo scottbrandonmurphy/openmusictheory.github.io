@@ -35,13 +35,13 @@ On the latter point, if the tonicized chord has tonic function in the current ke
 Analytical notation
 -------------------
 
-Applied dominant chords will always make use of *slash notation*. Rather than #IV, #V, etc., in the Roman numerals, convention is to express its identity in the key that it is borrowed from. If in the key of E-flat, an F-dominant-seventh chord is used to tonicize a B-flat triad, we label the **F7** chord as **V<sup>7</sup>/V**, rather than **II<sup>7</sup>**. This goes on the same line as the Roman numerals for diatonic chords.
+Applied dominant chords will always make use of *slash notation*. Rather than *#IV*, *#V*, etc., in the Roman numerals, convention is to express its identity in the key that it is borrowed from. If in the key of E-flat, an F-dominant-seventh chord is used to tonicize a B-flat triad, we label the **F7** chord as **V<sup>7</sup>/V**, rather than **II<sup>7</sup>**. This goes on the same line as the Roman numerals for diatonic chords.
 
 Underneath the slash notation, we label its harmonic function (**T**, **S**, or **D**). Here we show the way the chord is functioning in the *home* key, not the key from which it is borrowed. So while **F7** may be **V/V** in E-flat, it is a chromatically altered **S**, and so belongs in the **S** harmonic zone.
 
 This distinction is important. Applied chords are employed within the context of a tonal phrase, and without a cadence in a new key (a modulation), these borrowed chords still play a role within the original key. So while we reflect their borrowedness via slash notation in the Roman numerals, it is also important to reflect their role in the broader harmonic context of the phrase by means of *non*-modulating functional labels.
 
-Following is a short keyboard-style passage that includes several applied chords, notated with Roman numerals. 
+Following is a short keyboard-style passage that includes two different applied chords, notated with Roman numerals. 
 
 <iframe src="https://trinket.io/embed/music/45c20d9624" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
 
