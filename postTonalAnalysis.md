@@ -35,4 +35,6 @@ You may find that your initial hunch did not work out. That may be because of an
 Always keep in mind your experience of the piece: what stood out to you the most when you heard it the first time, the second time, the twentieth time... Grounding your analysis in your own experience will help motivate you to keep searching. But it will also take advantage of those structures that your brain already knows, but so far can only make sense of unconsciously. Tying your musical instincts to explicit concepts is easier than starting completely from scratch, and it will usually lead to a more personally satisfying result.
 
 
+<hr/>
+
 *This resource written by Kris Shaffer.*
