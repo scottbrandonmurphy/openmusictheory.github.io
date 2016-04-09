@@ -3,7 +3,7 @@ layout: post
 title: Pitch (class)
 ---
 
-Tonality is highly charged system where *scale degrees* are endowed with a magnetic or gravitational pull towards other tones. Within the key of C major, B-natural is attracted to the tonic C, other members of the dominant triad are attracted to the tonic triad, and other scale degrees have functions as well. *Spelling* is extremely important within common-practice tonality. A-flat—as lowered scale degree 6—leads to G, but G-sharp—as raised scale degree 5—leads to A. Underlying “scale degree” and “spelling” are two important concepts that will influence our study of post-tonal music.
+Tonality is highly charged system where *scale degrees* are endowed with a magnetic or gravitational pull towards other tones. Within the key of C major, B-natural is attracted to the tonic C, other members of the dominant triad are attracted to the tonic triad, and other scale degrees have functions as well. *Spelling* is extremely important within common-practice tonality. A-flat — as lowered scale degree 6 — leads to G, but G-sharp — as raised scale degree 5 — leads to A. Underlying “scale degree” and “spelling” are two important concepts that will influence our study of post-tonal music.
 
 ## Octave Equivalence
 
@@ -13,7 +13,7 @@ Tonality is highly charged system where *scale degrees* are endowed with a magne
 
 Though *octave equivalence* is central to our understanding of tonal music, enharmonic equivalence often is not. In the key of C major, A-flat and G-sharp are *not* equivalent, though in isolation they sound the same. Spelling often indicates tendency: A-flat *falls* to G and G-sharp *rises* to A.
 
-In post-tonal music, enharmonic equivalence is often assumed—with exceptions of course. Because many composers no longer felt constrained by a tonal center, the same gravitational relationships amongst tones that we find in tonal music aren’t important. A-flat and G-sharp, therefore, can be treated as representations of the same thing.
+In post-tonal music, enharmonic equivalence is often assumed — with exceptions of course. Because many composers no longer felt constrained by a tonal center, the same gravitational relationships amongst tones that we find in tonal music aren’t important. A-flat and G-sharp, therefore, can be treated as representations of the same thing.
 
 ## Pitch
 
