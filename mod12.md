@@ -1,10 +1,7 @@
 ---
 layout: post
-title: Modular 12 Arithmetic
+title: Modulo Arithmetic
 ---
-
-{{ page.title }}
-================
 
 What time is four hours later than 10 o'clock?
 

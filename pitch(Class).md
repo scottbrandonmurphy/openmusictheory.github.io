@@ -7,7 +7,7 @@ Tonality is highly charged system where *scale degrees* are endowed with a magne
 
 ## Octave Equivalence
 
- ”Scale degree” implies an *equivalence* between [pitches](pitches.html) that are spelled the same but any number of octaves apart. C4 is the same as C3 is the same as C9, and so on. The concept of scale degree, then, has the idea of *octave *equivalence* embedded within it. 
+ ”Scale degree” implies an *equivalence* between [pitches](pitches.html) that are spelled the same but any number of octaves apart. C4 is the same as C3 is the same as C9, and so on. The concept of scale degree, then, has the idea of *octave equivalence* embedded within it. 
  
 ## Enharmonic Equivalence
 
