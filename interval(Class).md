@@ -41,4 +41,4 @@ Unordered intervals represent the *shortest distance* between two pitches or pit
 
 ## Summary
 
-Using various combinations of pitch interval, pitch-class interval, ordered, and unordered, we arrive at four different conceptions of interval. To wrap your mind around each of these and begin to understand their various analytical uses, think of them on a sliding scale of most concrete—the ordered pitch interval—to most abstract—the unordered pitch-class interval.
+Using various combinations of pitch interval, pitch-class interval, ordered, and unordered, we arrive at four different conceptions of interval. To wrap your mind around each of these and begin to understand their various analytical uses, think of them on a sliding scale of most concrete — the ordered pitch interval — to most abstract — the unordered pitch-class interval.
