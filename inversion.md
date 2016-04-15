@@ -7,7 +7,7 @@ Inversion, like transposition, is often associated with motion that connects sim
 
 [![](Graphics/postTonal/inversion.png)](Graphics/postTonal/inversion.png)
 
-This passage above from Debussy's "Sunken Cathedral" is an example. Just as was the case in the [transpositionally-related passages][2], these two gestures have the same intervallic content—and so, our ears recognize them as very similar. (Debussy underscores that similarity by giving both of the gestures the same rhythmic setting.) Unlike transposition, however, the interval content of these two gestures is not *arranged* in the same way.
+This passage above from Debussy's "Sunken Cathedral" is an example. Just as was the case in the [transpositionally-related passages][transposition], these two gestures have the same intervallic content—and so, our ears recognize them as very similar. (Debussy underscores that similarity by giving both of the gestures the same rhythmic setting.) Unlike transposition, however, the interval content of these two gestures is not *arranged* in the same way.
 
 [![](Graphics/postTonal/inversionallyRelated.png)](Graphics/postTonal/inversionallyRelated.png)
 
