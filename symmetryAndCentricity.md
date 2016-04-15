@@ -9,7 +9,7 @@ Apart from these means, pitch and/or pitch-class symmetry represents a novel met
 
 ## Pitch Symmetry
 
-Think of pitch symmetry in terms of a musical “mirror.” In the passage below — from Bartók’s *Music for Strings, Percussion, and Celesta* — the third violin (3. Vl.) plays a gesture comprising two descending pitch intervals: -5 followed by -1. That is *mirrored* by the fourth violin (4. Vl), who plays the same pitch intervals, only ascending: +5 followed by +1. Below the example, I’ve diagrammed the gestures in pitch space. And you can that when combined the two gestures create a symmetrical arch.
+Think of pitch symmetry in terms of a musical “mirror.” In the passage below — from Bartók’s *Music for Strings, Percussion, and Celesta* — the third violin (3. Vl.) plays a gesture comprising two descending pitch intervals: –5 followed by –1. That is *mirrored* by the fourth violin (4. Vl), who plays the same pitch intervals, only ascending: +5 followed by +1. Below the example, I’ve diagrammed the gestures in pitch space. And you can that when combined the two gestures create a symmetrical arch.
 
 **Bartók, *Music for Strings, Percussion, and Celesta***
 
