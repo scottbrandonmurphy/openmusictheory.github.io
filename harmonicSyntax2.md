@@ -92,7 +92,7 @@ For instance, consider the following possible harmonic progression for a phrase:
 
 The first progression through the **T–S–D–T** cycle does not produce a cadence when it returns to T. However, it cannot be said to be a contrapuntal prolongation because it follows the normal functional cycle perfectly. Thus, it is a subsidiary progression. 
 
-[![](Graphics/harmony/subsidiaryProgression.png)](Graphics/harmony/subsidiaryProgression.png)
+[![]({{ site.url }}/Graphics/harmony/subsidiaryProgression.png)]({{ site.url }}/Graphics/harmony/subsidiaryProgression.png)
 
 ## Plagal progressions ##
 

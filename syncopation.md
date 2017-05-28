@@ -39,9 +39,9 @@ Once you have determinted the level of syncopation, the duration of the shift, a
 
 Another common rhythmic pattern in pop/rock is to divide a beat (or two beats) into three almost-equal groups. For example, dividing a half note into two dotted-eighth notes and an eighth note (3+3+2). Since this pattern approximates a triplet while still maintaining the simple division of beats by 2, 4, 8, etc., we can call them *fake triplets*.
 
-![](Graphics/syncopation/fakeTripletsBar.png)
+![]({{ site.url }}/Graphics/syncopation/fakeTripletsBar.png)
 
-![](Graphics/syncopation/fakeTripletsHalfBar.png)
+![]({{ site.url }}/Graphics/syncopation/fakeTripletsHalfBar.png)
 
 Fake triplets are more common than "real" triplets in most pop/rock genres, but both do occur, so take care to distinguish between the two. "Cathedrals" by Jump, Little Children contains examples of both (as well as  some straight syncopation), and is an excellent example for practicing performing and identifying fake and real triplets.
 
@@ -51,7 +51,7 @@ While fake triplets occur most often in 3+3+2 groupings, 3+2+3 and 2+3+3 are als
 
 A related pattern is what we might call *fake sextuplets*. Here the 3+3+2 pattern is doubled, resulting in 3+3+3+3+2+2. 
 
-![](Graphics/syncopation/fakeSextuplets.png)
+![]({{ site.url }}/Graphics/syncopation/fakeSextuplets.png)
 
 In the opening of "Electric Co." by U2, the guitar plays subdivisions (sixteenths) grouped 3+3+3+3+2+2, while the kick drum plays straight beats (quarters) under the hi-hat playing straight subdivisions. 
 
@@ -64,6 +64,6 @@ The following video walks through the process of transcribing straight syncopati
 <iframe src="http://player.vimeo.com/video/52491312?badge=0" width="500" height="281" class="aligncenter" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><br/>
 
 
-[quarterToEighth]: Graphics/syncopation/quarterToEighth.png
-[halfToQuarter]: Graphics/syncopation/halfToQuarter.png
-[eighthToSixteenth]: Graphics/syncopation/eighthToSixteenth.png
+[quarterToEighth]: {{ site.url }}/Graphics/syncopation/quarterToEighth.png
+[halfToQuarter]: {{ site.url }}/Graphics/syncopation/halfToQuarter.png
+[eighthToSixteenth]: {{ site.url }}/Graphics/syncopation/eighthToSixteenth.png

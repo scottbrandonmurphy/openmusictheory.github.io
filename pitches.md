@@ -39,7 +39,7 @@ Any accidentals follow the octave designation of the natural pitch with the same
 
 Note that a complete designation contains both the pitch-class name (a letter name plus an optional sharp or flat) and the register (the ISO number indicating the octave in which the pitch is found). Unless both are present, you do not have the full designation of a specific pitch.
 
-[C4toC5]: Graphics/C4toC5.png
-[C4toC3]: Graphics/C4toC3.png
-[F3toG4]: Graphics/F3toG4-alto.png
-[keyboard]: Graphics/keyboardlayout-small.png
+[C4toC5]: {{ site.url }}/Graphics/C4toC5.png
+[C4toC3]: {{ site.url }}/Graphics/C4toC3.png
+[F3toG4]: {{ site.url }}/Graphics/F3toG4-alto.png
+[keyboard]: {{ site.url }}/Graphics/keyboardlayout-small.png

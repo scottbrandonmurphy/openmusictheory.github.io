@@ -49,4 +49,4 @@ A pivot-chord modulation is notated in a special way. The pivot chord receives i
 
 
 [Applied]: appliedChords.html
-[mod]: Graphics/harmony/modEx.png
+[mod]: {{ site.url }}/Graphics/harmony/modEx.png

@@ -51,6 +51,6 @@ When descending, the *melodic minor* scale uses the "natural" *te* and *le*.
 
 Truth be told, most composers don't really think about three different "forms" of the minor scale. The *harmonic minor* scale simply represents composers' tendency to use *ti* when building harmonies that include the seventh scale degree in the minor mode. Likewise, the *melodic minor* scale is derived from composers' desire to avoid the melodic augmented second interval (more on this in the [intervals](intervals.html) section) between *le* and *ti* (and some chose not to avoid this!). In reality, there is only one "version" of the minor scale. Context determines when a composer might use *la* and *ti* when writing music in a minor key. 
 
-[chromaticscale]: Graphics/chromaticscale.png
-[majorscale]: Graphics/majorscale.png
-[minorscale]: Graphics/minorscale.png
+[chromaticscale]: {{ site.url }}/Graphics/chromaticscale.png
+[majorscale]: {{ site.url }}/Graphics/majorscale.png
+[minorscale]: {{ site.url }}/Graphics/minorscale.png

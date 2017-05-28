@@ -66,8 +66,8 @@ title: Table of Contents
 
 #### Handouts and charts
 
-[Lead-sheet and figured-bass symbols.](Graphics/Handouts/LSandFBsymbols.pdf)   
-[Harmonies (Roman numerals and functional bass) by bass scale degree.](Graphics/Handouts/HarmoniesByBassScaleDegree.pdf)
+[Lead-sheet and figured-bass symbols.]({{ site.url }}/Graphics/Handouts/LSandFBsymbols.pdf)   
+[Harmonies (Roman numerals and functional bass) by bass scale degree.]({{ site.url }}/Graphics/Handouts/HarmoniesByBassScaleDegree.pdf)
 
 ## Form
 
@@ -160,7 +160,7 @@ Tranpositional Symmetry.
 [Analyzing atonal music.](atonal.html)   
 [Analyzing 12-tone music.](twelveTone.html)   
 [Glossary of atonal musical terms.](atonalGlossary.html)   
-[Sheet of blank chromatic-scale clock faces.](Graphics/blankClockFaces.pdf)
+[Sheet of blank chromatic-scale clock faces.]({{ site.url }}/Graphics/blankClockFaces.pdf)
 
 ## Pop/rock music
 

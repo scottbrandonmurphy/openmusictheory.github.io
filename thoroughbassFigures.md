@@ -5,7 +5,7 @@ title: Introduction to thoroughbass
 
 A *thoroughbass* (It. *Basso continuo*, Ger. *Generalbaß*, also called a *figured bass*) is a harmonic shorthand of a musical passage or work. It is composed of a bass line, and chord symbols—called *figures*. It is called a "thorough" bass or "continuous" bass line because it includes the lowest sounding note at any given moment, *regardless of the instrument or voice sounding the note*. It usually corresponds to a single instrument or vocal part, but not always.
 
-[![](Graphics/Bach1033.png)](Graphics/Bach1033.png)
+[![]({{ site.url }}/Graphics/Bach1033.png)]({{ site.url }}/Graphics/Bach1033.png)
 
 *J.S. Bach, Flute Sonata in C Major, ii., BWV 1033. The upper part is played by the flute, the lower part is the* basso continuo *line, played by a keyboardist who uses the numbers below the staff (figures) to guide the chords played above this bass line.*
 
@@ -85,6 +85,6 @@ Keep in mind that some chords have abbreviated figures. For example, it is commo
 
 
 [triadsSevenths]: triads.html
-[full]: Graphics/harmony/figuresFull.png
-[abbrev]: Graphics/harmony/figuresAbbrev.png
-[chrom]: Graphics/harmony/figuresChrom.png
+[full]: {{ site.url }}/Graphics/harmony/figuresFull.png
+[abbrev]: {{ site.url }}/Graphics/harmony/figuresAbbrev.png
+[chrom]: {{ site.url }}/Graphics/harmony/figuresChrom.png

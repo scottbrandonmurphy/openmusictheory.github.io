@@ -54,7 +54,7 @@ The following excerpt is from Mozart's Piano Sonata in A Major, K. 331, I., mm. 
 - In contrast, the entire tonic-prolongation zone is made up of *contrapuntal chords* — variable scale degrees in the bass — with the exception of the **I** chord that triggered the tonic function.  
 - The **vi** chord is a root-position chord, but still an embellishing chord, while the <strong>ii<sup>6</sup></strong> is an inverted chord, but still a functional/cadential chord. The difference is not the inversion, but the scale degree of the bass.
 
-[![](Graphics/harmony/k331-reduction.png)](Graphics/harmony/k331-reduction.png)
+[![]({{ site.url }}/Graphics/harmony/k331-reduction.png)]({{ site.url }}/Graphics/harmony/k331-reduction.png)
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:5yfZxPrcN0hjwzU1OKIsdQ" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
 

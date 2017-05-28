@@ -57,9 +57,9 @@ In either case, pay special attention to the cadential six-four version of the c
 [Furno]: http://faculty-web.at.northwestern.edu/music/gjerdingen/partimenti/collections/Furno/regoleP5.htm
 [Fenaroli]: http://faculty-web.at.northwestern.edu/music/gjerdingen/partimenti/collections/Fenaroli/Regole/regoleP3.htm
 [Gjerdingen]: http://faculty-web.at.northwestern.edu/music/gjerdingen/index.htm
-[Compound4-3]: Graphics/cadences/Compound43.png
-[Compound4-3-full]: Graphics/cadences/Compound43-full.png
-[Cadential64]: Graphics/cadences/Cadential64.png
-[Cadential64-full]: Graphics/cadences/Cadential64-full.png
-[Cadential64-seventh]: Graphics/cadences/Cadential64-7th.png
-[Double]: Graphics/cadences/Double.png
+[Compound4-3]: {{ site.url }}/Graphics/cadences/Compound43.png
+[Compound4-3-full]: {{ site.url }}/Graphics/cadences/Compound43-full.png
+[Cadential64]: {{ site.url }}/Graphics/cadences/Cadential64.png
+[Cadential64-full]: {{ site.url }}/Graphics/cadences/Cadential64-full.png
+[Cadential64-seventh]: {{ site.url }}/Graphics/cadences/Cadential64-7th.png
+[Double]: {{ site.url }}/Graphics/cadences/Double.png

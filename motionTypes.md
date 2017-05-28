@@ -26,8 +26,8 @@ or
 
 
 
-[parallel]: Graphics/intervals/parallel.png
-[similar]: Graphics/intervals/similar.png
-[contrary]: Graphics/intervals/contrary.png
-[oblique1]: Graphics/intervals/oblique1.png
-[oblique2]: Graphics/intervals/oblique2.png
+[parallel]: {{ site.url }}/Graphics/intervals/parallel.png
+[similar]: {{ site.url }}/Graphics/intervals/similar.png
+[contrary]: {{ site.url }}/Graphics/intervals/contrary.png
+[oblique1]: {{ site.url }}/Graphics/intervals/oblique1.png
+[oblique2]: {{ site.url }}/Graphics/intervals/oblique2.png

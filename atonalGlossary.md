@@ -37,5 +37,5 @@ For help finding the prime form of a set, Jay Tomlin's [set theory calculator][c
 
 
 [calc]: http://www.jaytomlin.com/music/settheory/
-[clock]: Graphics/postTonal/clockFace.png
-[Cmajor]: GRaphics/postTonal/clockFace-diatonic.png
+[clock]: {{ site.url }}/Graphics/postTonal/clockFace.png
+[Cmajor]: {{ site.url }}/Graphics/postTonal/clockFace-diatonic.png
