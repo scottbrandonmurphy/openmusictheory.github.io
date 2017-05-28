@@ -146,9 +146,9 @@ Following are the qualities and scale-degrees belonging to each seventh chord in
 
 Note that major-seventh and dominant-seventh chords have the same Roman numeral nomenclature. The difference is discerned from the context of the key.
 
-[circleOfSteps-triad]: Graphics/triadsSeventhChords/circleOfSteps-triad.png
-[circleOfThirds-triad]: Graphics/triadsSeventhChords/circleOfThirds-triad.svg
-[circleOfThirds-triadRTF]: Graphics/triadsSeventhChords/circleOfThirds-triadRTF.svg
-[triads]: Graphics/triadsSeventhChords/triads.png
-[triads-LS]: Graphics/triadsSeventhChords/triads-LS.png
-[circleOfThirds-seventhRTFS]: Graphics/triadsSeventhChords/circleOfThirds-seventhRTFS.svg
+[circleOfSteps-triad]: {{ site.url }}/Graphics/triadsSeventhChords/circleOfSteps-triad.png
+[circleOfThirds-triad]: {{ site.url }}/Graphics/triadsSeventhChords/circleOfThirds-triad.svg
+[circleOfThirds-triadRTF]: {{ site.url }}/Graphics/triadsSeventhChords/circleOfThirds-triadRTF.svg
+[triads]: {{ site.url }}/Graphics/triadsSeventhChords/triads.png
+[triads-LS]: {{ site.url }}/Graphics/triadsSeventhChords/triads-LS.png
+[circleOfThirds-seventhRTFS]: {{ site.url }}/Graphics/triadsSeventhChords/circleOfThirds-seventhRTFS.svg
