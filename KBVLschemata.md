@@ -35,9 +35,9 @@ Note here that, like the *fa* in the **D2** voice exchange, the *fa* in the melo
 
 This pattern can also be used in major or minor, transposed to any key, and in reverse. It almost always uses a **V<sup>4/3</sup>** for **D2**.
 
-## Champagne progression ##
+## Imperfect wedge ##
 
-While **T(1 D2p 3)** is a perfectly acceptable way to accompany *mi–fa–sol* in the melody, a more interesting (and also more involved) way to harmonize that melody is what theorist Gene Biringer called the *champagne progression*: **T1 S6 T3**. (He called it this because it is "the progression you use when you want to impress a date.")
+While **T(1 D2p 3)** is a perfectly acceptable way to accompany *mi–fa–sol* in the melody, a more varied way to harmonize this melody is with **T1 S6 T3**, creating one type of what theorist Scott Murphy called the *imperfect wedge*. He called it an imperfect wedge because the melody and bass consistently span imperfect harmonic intervals and they move in contrary motion to one another, wedging outward or inward, and making the next larger or smaller imperfect harmony in the process. Furthermore, in every imperfect wedge, either the melody or the bass moves consistently by step for three notes. In the **T1 S6 T3** imperfect wedge, the outer voices start on a harmonic third (tenth), and wedge outward, with the melody moving by step. Theorist Gene Biringer called the imperfect wedge with **T1 S6 T3** the *champagne progression*, because it is "the progression you use when you want to impress a date."
 
 The champagne progression is very nice, but must be treated carefully. *Only* use it with *mi–fa–sol* (or *me–fa–sol*) in the melody, and *always* use the following voice-leading (note the non-standard doubling of the bass—*la*/*le*—in the **S6** chord).
 
@@ -47,7 +47,9 @@ The standard champagne progression (above) uses a **I<sup>6</sup>** chord for **
 
 ![][PinkChampagne]
 
-The champagne progression should only be used to prolong tonic function.
+**T1 D7 T6** with *mi–sol–do* in the melody is another common type of imperfect wedge, in which the outer voices start on a harmonic third (tenth), and wedge outward, but the bass moves by step instead.
+
+Both types of imperfect wedge should only be used to prolong tonic function.
 
 ## Deceptive resolution ##
 
